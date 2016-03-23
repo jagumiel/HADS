@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<eda1:tareas xmlns:eda1="http://ji.ehu.es/eda1">
+  <Table1 xmlns="http://ji.ehu.es/eda1">
+    <Codigo>EDA07-Ej1</Codigo>
+    <Descripcion>Ejercicio sobre listas ligadas</Descripcion>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Ejercicio</TipoTarea>
+    <CodAsig>EDA1</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/eda1">
+    <Codigo>EDA13</Codigo>
+    <Descripcion>examen</Descripcion>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+    <CodAsig>EDA1</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/eda1">
+    <Codigo>eda-nuevatarea</Codigo>
+    <Descripcion>sadasdadasd</Descripcion>
+    <HEstimadas>23</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>EDA1</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/eda1">
+    <Codigo>EX-123</Codigo>
+    <Descripcion>examen</Descripcion>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+    <CodAsig>EDA1</CodAsig>
+  </Table1>
+</eda1:tareas>
