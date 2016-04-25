@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="MediaDedicacionAlumnos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="miAsignatura" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="MediaDedicacionAlumnosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="MediaDedicacionAlumnosResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="MediaDedicacionAlumnosSoapIn">
+    <wsdl:part name="parameters" element="tns:MediaDedicacionAlumnos" />
+  </wsdl:message>
+  <wsdl:message name="MediaDedicacionAlumnosSoapOut">
+    <wsdl:part name="parameters" element="tns:MediaDedicacionAlumnosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServicioCoordinacionSoap">
+    <wsdl:operation name="MediaDedicacionAlumnos">
+      <wsdl:input message="tns:MediaDedicacionAlumnosSoapIn" />
+      <wsdl:output message="tns:MediaDedicacionAlumnosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServicioCoordinacionSoap" type="tns:ServicioCoordinacionSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="MediaDedicacionAlumnos">
+      <soap:operation soapAction="http://tempuri.org/MediaDedicacionAlumnos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServicioCoordinacionSoap12" type="tns:ServicioCoordinacionSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="MediaDedicacionAlumnos">
+      <soap12:operation soapAction="http://tempuri.org/MediaDedicacionAlumnos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioCoordinacion">
+    <wsdl:port name="ServicioCoordinacionSoap" binding="tns:ServicioCoordinacionSoap">
+      <soap:address location="http://localhost:56450/ServicioCoordinacion.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServicioCoordinacionSoap12" binding="tns:ServicioCoordinacionSoap12">
+      <soap12:address location="http://localhost:56450/ServicioCoordinacion.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

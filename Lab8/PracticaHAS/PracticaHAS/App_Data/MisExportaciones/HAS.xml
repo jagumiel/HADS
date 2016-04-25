@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<has:tareas xmlns:has="http://ji.ehu.es/has">
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>GIS-Lab4</Codigo>
+    <Descripcion>ddfdfdf</Descripcion>
+    <HEstimadas>6</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>HAS08-Lab10</Codigo>
+    <Descripcion>aaaa</Descripcion>
+    <HEstimadas>10</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>HAS08-Lab12</Codigo>
+    <Descripcion>Laboratorio 12 de la asignatura</Descripcion>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>HAS08-Test5</Codigo>
+    <Descripcion>Test 5 de la asignatura</Descripcion>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>examen</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>HAS11-LAB4</Codigo>
+    <Descripcion>lalalalal</Descripcion>
+    <HEstimadas>20</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>HAS16-Lab12</Codigo>
+    <Descripcion>Laboratorio 12 de la asignatura</Descripcion>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>HAS16-Test5</Codigo>
+    <Descripcion>Test 5 de la asignatura</Descripcion>
+    <HEstimadas>1</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>examen</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>Has-nuevo</Codigo>
+    <Descripcion>Una nueva tarea</Descripcion>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>Lab4</Codigo>
+    <Descripcion>lelelelelelelel</Descripcion>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+  <Table1 xmlns="http://ji.ehu.es/has">
+    <Codigo>Test1</Codigo>
+    <Descripcion>10 preguntas ....</Descripcion>
+    <HEstimadas>1</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+    <CodAsig>HAS</CodAsig>
+  </Table1>
+</has:tareas>
