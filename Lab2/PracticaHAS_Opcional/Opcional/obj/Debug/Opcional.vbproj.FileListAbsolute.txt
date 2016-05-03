@@ -1,0 +1,12 @@
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\bin\Opcional.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\bin\Opcional.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\bin\Opcional.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\bin\Funciones.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\bin\Funciones.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\bin\Funciones.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\obj\Debug\Opcional.vbprojResolveAssemblyReference.cache
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\obj\Debug\Opcional.Resources.resources
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\obj\Debug\Opcional.vbproj.GenerateResource.Cache
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\obj\Debug\Opcional.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\obj\Debug\Opcional.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS_Opcional\Opcional\obj\Debug\Opcional.pdb
