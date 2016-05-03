@@ -1,0 +1,16 @@
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\bin\Debug\IVA.dll
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\bin\Debug\IVA.pdb
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\bin\Debug\IVA.xml
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.Resources.resources
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.vbproj.GenerateResource.Cache
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.dll
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.xml
+c:\users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\bin\Debug\IVA.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\bin\Debug\IVA.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\bin\Debug\IVA.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.Resources.resources
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.vbproj.GenerateResource.Cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\IVA\obj\Debug\IVA.pdb

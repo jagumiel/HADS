@@ -1,0 +1,24 @@
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\bin\WebApplication1.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\bin\IVA.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\bin\IVA.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\bin\IVA.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\ClienteIvaWeb.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\ClienteIvaWeb.vbproj.GenerateResource.Cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\bin\WebApplication1.dll
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\bin\WebApplication1.pdb
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\bin\WebApplication1.xml
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\bin\IVA.dll
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\bin\IVA.pdb
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\bin\IVA.xml
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\ClienteIvaWeb.vbprojResolveAssemblyReference.cache
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\ClienteIvaWeb.vbproj.GenerateResource.Cache
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,28 @@
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.exe.config
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.exe
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.pdb
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.xml
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\IVA.dll
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\IVA.pdb
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\IVA.xml
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.vbprojResolveAssemblyReference.cache
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.Form1.resources
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.Resources.resources
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.vbproj.GenerateResource.Cache
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.exe
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.xml
+c:\Users\joseángel\documents\visual studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.exe.config
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.exe
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.exe
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\ClienteIvaWindows.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\IVA.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\IVA.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\bin\Debug\IVA.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.Form1.resources
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.Resources.resources
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ClienteIvaWindows\obj\Debug\ClienteIvaWindows.vbproj.GenerateResource.Cache

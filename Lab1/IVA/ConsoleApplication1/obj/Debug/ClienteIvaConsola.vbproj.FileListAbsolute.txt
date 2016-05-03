@@ -1,0 +1,26 @@
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\IVA.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\IVA.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\IVA.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ClienteIvaConsola.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ClienteIvaConsola.vbproj.GenerateResource.Cache
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\IVA.dll
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\IVA.pdb
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\bin\Debug\IVA.xml
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ClienteIvaConsola.vbprojResolveAssemblyReference.cache
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\JoseÁngel\documents\visual studio 2012\Projects\Lab1\IVA\ConsoleApplication1\obj\Debug\ClienteIvaConsola.vbproj.GenerateResource.Cache
