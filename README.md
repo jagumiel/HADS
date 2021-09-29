@@ -4,7 +4,7 @@ Laboratorios de la asignatura Herramientas Avanzadas de Desarrollo Software (HAD
 [![Language](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]() [![Cloud](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
 
 ## Introducción
-En esta asignatura de la carrera aprendimos a desarrollar aplicaciones de manera rápida y eficaz sobre el IDE Microsoft Visual Studio 2012. Hicimos una aplicación en lenguaje Visual Basic sobre la tecnología .Net y la desplegamos en la plataforma _cloud_ Microsoft Azure. Microsoft nos dio acceso a estas herramientas como estudiantes de la Facultad de Informática de San Sebastián (FISS). Además, también trabajamos la integración con bases de datps y microservicios web.
+En esta asignatura de la carrera aprendimos a desarrollar aplicaciones de manera rápida y eficaz sobre el IDE Microsoft Visual Studio 2012. Hicimos una aplicación en lenguaje Visual Basic sobre la tecnología .Net y la desplegamos en la plataforma _cloud_ Microsoft Azure. Microsoft nos dio acceso a estas herramientas como estudiantes de la Facultad de Informática de San Sebastián (FISS). Además, también trabajamos la integración con bases de datos y microservicios web.
 
 De forma adicional, tuvimos que hacernos responsables de la securización de la aplicación, para evitar posibles ataques  o que los usuarios se saltaran los roles. También tuvimos que aplicar una capa para trabajar con AJAX.
 
